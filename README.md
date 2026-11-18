@@ -4,7 +4,7 @@
 This repository contains the semester-long consulting deliverables for the KPMG-Sponsored IS Consulting Challenge, completed for **Wasatch Outfitters Collective (WOC)**, an outdoor recreation and retail company based in Salt Lake City, Utah (with locations in Downtown SLC, Sandy, and Park City).
 
 * **Project Track:** Track B — AI & Analytics
-* **Team Members:** Emmy Dichter, Conner Geiser, Evelyn Perkins, and Jack Waltz
+* **Team Members:** Emmy Dichter, Conner Geiser, Evelyn Perkins, Jack Waltz
 
 ---
 
