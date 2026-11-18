@@ -6,24 +6,24 @@ Welcome to the official repository for our semester-long consulting engagement w
 
 ## 📁 Repository Directory & Deliverables
 
-* **`/milestone-01` — Tableau Data Visualization & Support Insights**
+* **`milestone-01` — Tableau Data Visualization & Support Insights**
   * *Artifacts:* Exploratory data analysis of `woc_track_b_support.csv` and embedded Tableau dashboard export (`tableau-support-analysis.png`).
   * *Focus:* Diagnosed multi-channel support bottlenecks, highlighting asynchronous response lags (~24 hours on Email/Instagram DM) versus synchronous channels (~2 hours on Phone/Web Form).
 
-* **`/milestone-02` — AI Business Intelligence & Process Design**
+* **`milestone-02` — AI Business Intelligence & Process Design**
   * *Artifacts:* Current-state workflow mapping and future-state CRM / AI triage architecture.
   * *Focus:* Outlines omnichannel inbox centralization and automated tier-1 deflection to resolve inquiry backlogs and standardize late-fee waiver policies.
 
-* **`/milestone-03` — AI-Enabled Customer Engagement Prototype**
+* **`milestone-03` — AI-Enabled Customer Engagement Prototype**
   * *Artifacts:* Proof-of-concept custom AI assistant/GPT documentation, prompt engineering logs, and interaction test results.
 
-* **`/milestone-04` — Cloud Infrastructure Evaluation**
+* **`milestone-04` — Cloud Infrastructure Evaluation**
   * *Artifacts:* Google Cloud Compute Engine deployment assessment, cost analysis, and scalability/security review.
 
-* **`/milestone-05` — AI Opportunity Evaluation & Business Case**
+* **`milestone-05` — AI Opportunity Evaluation & Business Case**
   * *Artifacts:* Build vs. buy analysis and executive proposal evaluating business value and feasibility.
 
-* **`/milestone-06` — Cybersecurity, Privacy, & AI Governance Plan**
+* **`milestone-06` — Cybersecurity, Privacy, & AI Governance Plan**
   * *Artifacts:* Enterprise risk register, human-oversight escalation protocols, and a phased implementation roadmap (30/60/90-day rollout).
 
 ---
